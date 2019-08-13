@@ -1,0 +1,17 @@
+difficulty: "Difficulty:"
+skip_training: "Start Game" 
+options: "Options"
+cancel: "Cancel"
+
+diff_0:  "Expert
+A challenge for even the most seasoned thief.  You will be told
+how to solve most puzzles, and maximum gear is provided.
+"
+diff_1:  "Professional
+Far more difficult than you're used to.  You will be given hints
+on how to solve some puzzles, and medium gear is provided.
+"
+diff_2:  "Impossible
+Consider yourself warned.  Little to no help will be given to
+solve any puzzles, and minimum gear is provided.
+"
